@@ -24,8 +24,8 @@ Sou desenvolvedor web em processo de aprendizado e aprimoramento operando princi
 
 <div align="center">
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelRPego&show_icons=true&theme=radical)
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRPego&theme=dark" alt="RafaelRPego" /></p>  
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRPego&layout=compact&theme=radical)
 
 </div>
