@@ -3,7 +3,7 @@
 
 
 ## 🌱 Sobre mim
-Sou desenvolvedor web em processo de aprendizado e aprimoramento operando principalmente com:
+Desenvolvedor Jr. Back-end em processo de aprimoramento operando principalmente com:
 **PHP**, **JavaScript**,**Vue.js**, **Blade**, **HTML5** e **CSS3**.
 
 ---
